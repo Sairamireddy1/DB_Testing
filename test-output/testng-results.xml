@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-18T09:48:48 IST" name="Default suite" finished-at="2022-10-18T09:48:49 IST" duration-ms="1254">
+    <groups>
+    </groups>
+    <test started-at="2022-10-18T09:48:48 IST" name="Default test" finished-at="2022-10-18T09:48:49 IST" duration-ms="1254">
+      <class name="Storedprocedure_testing.SP_Testing">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Storedprocedure_testing.SP_Testing@7722c3c3]" started-at="2022-10-18T09:48:48 IST" name="setup" finished-at="2022-10-18T09:48:48 IST" duration-ms="812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_storedproceduresExists()[pri:1, instance:Storedprocedure_testing.SP_Testing@7722c3c3]" started-at="2022-10-18T09:48:49 IST" name="test_storedproceduresExists" finished-at="2022-10-18T09:48:49 IST" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_storedproceduresExists -->
+        <test-method signature="test_AllCostomers()[pri:2, instance:Storedprocedure_testing.SP_Testing@7722c3c3]" started-at="2022-10-18T09:48:49 IST" name="test_AllCostomers" finished-at="2022-10-18T09:48:49 IST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_AllCostomers -->
+        <test-method signature="Test_SelectAllCustomersByCity()[pri:3, instance:Storedprocedure_testing.SP_Testing@7722c3c3]" started-at="2022-10-18T09:48:49 IST" name="Test_SelectAllCustomersByCity" finished-at="2022-10-18T09:48:49 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_SelectAllCustomersByCity -->
+        <test-method signature="Test_SelectAllCustomersByCityAndPin()[pri:4, instance:Storedprocedure_testing.SP_Testing@7722c3c3]" started-at="2022-10-18T09:48:49 IST" name="Test_SelectAllCustomersByCityAndPin" finished-at="2022-10-18T09:48:49 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_SelectAllCustomersByCityAndPin -->
+        <test-method signature="Test_get_order_by_customer()[pri:5, instance:Storedprocedure_testing.SP_Testing@7722c3c3]" started-at="2022-10-18T09:48:49 IST" name="Test_get_order_by_customer" finished-at="2022-10-18T09:48:49 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_get_order_by_customer -->
+        <test-method signature="Test_GetCustomerSipping()[pri:6, instance:Storedprocedure_testing.SP_Testing@7722c3c3]" started-at="2022-10-18T09:48:49 IST" name="Test_GetCustomerSipping" finished-at="2022-10-18T09:48:49 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_GetCustomerSipping -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Storedprocedure_testing.SP_Testing@7722c3c3]" started-at="2022-10-18T09:48:49 IST" name="teardown" finished-at="2022-10-18T09:48:49 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Storedprocedure_testing.SP_Testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
